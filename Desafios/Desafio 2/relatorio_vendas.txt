@@ -1,0 +1,31 @@
+=== Relatório de Vendas ===
+
+Cliente: Max
+Produto: Pc gamer
+Quantidade: 2
+Valor Bruto: R$ 14000.00
+Desconto: R$ 0.00
+Valor Final: R$ 14000.00
+
+Cliente: LETICIA
+Produto: camisa palmeiras
+Quantidade: 20
+Valor Bruto: R$ 4000.00
+Desconto: R$ 200.00
+Valor Final: R$ 3800.00
+
+Cliente: Matheus
+Produto: Livro de programaçao
+Quantidade: 100
+Valor Bruto: R$ 2000.00
+Desconto: R$ 100.00
+Valor Final: R$ 1900.00
+
+Cliente: Livia
+Produto: Teclado Gamer
+Quantidade: 88
+Valor Bruto: R$ 44000.00
+Desconto: R$ 2200.00
+Valor Final: R$ 41800.00
+
+Total arrecadado pela loja: R$ 61500.00
